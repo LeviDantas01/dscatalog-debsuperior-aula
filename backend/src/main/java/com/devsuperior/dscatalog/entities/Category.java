@@ -1,7 +1,7 @@
 package com.devsuperior.dscatalog.entities;
 
 import jakarta.persistence.*;
-import org.springframework.context.annotation.EnableMBeanExport;
+
 
 import java.io.Serializable;
 import java.util.Objects;
